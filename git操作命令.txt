@@ -75,3 +75,9 @@ git clone xx
 #拉取
 git fetch
 git pull
+
+# 1. 强制重置到目标版本（工作区和暂存区完全覆盖）
+git reset --hard 9f02038e
+
+# 2. 强制推送到远程仓库（覆盖历史）
+git push -f origin <分支名>  # 如 git push -f origin main
