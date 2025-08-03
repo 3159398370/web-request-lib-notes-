@@ -1,0 +1,82 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Data annotation platform</title><meta name="description" content="2025年7月16日17时6分7秒发布"/><script src="/src/plugins/canvas-select/canvas-select.min.js?v=1752656767842"></script><script src="/src/plugins/canvas-select/canvas-select-3d.min.js?v=1752656767842"></script><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/><meta http-equiv="Pragma" content="no-cache"/><meta http-equiv="Expires" content="0"/><meta name="version" content="1752656767842"/><script type="module" crossorigin src="/assets/js/index.557627b4.2656583180.js"></script><link rel="modulepreload" crossorigin href="/assets/js/vue-manifest.a32c7719.2656583180.js"><link rel="modulepreload" crossorigin href="/assets/js/highlight-js.47c9bdca.2656583180.js"><link rel="modulepreload" crossorigin href="/assets/js/naive-ui-manifest.1eb66dc1.2656583180.js"><link rel="modulepreload" crossorigin href="/assets/js/lodash.4fd45a9e.2656583180.js"><link rel="modulepreload" crossorigin href="/assets/js/naive-ui.3d43a2b1.2656583180.js"><link rel="modulepreload" crossorigin href="/assets/js/vicons.bf80189b.2656583180.js"><link rel="stylesheet" href="/assets/css/index.d5979a77.2656583180.css"></head><body><div id="app"><script>if (
+          !localStorage.getItem("build_time") ||
+          localStorage.getItem("build_time") != "1752656767842"
+        ) {
+          localStorage.setItem("build_time", "1752656767842");
+        }
+        const appEl = document.getElementById("app");
+        const configLocal = window.localStorage.getItem("system_config");
+        const themeLocal = window.localStorage.getItem("system_theme_common");
+        const config = configLocal ? JSON.parse(configLocal) : undefined;
+        const theme = themeLocal ? JSON.parse(themeLocal) : undefined;
+
+        const baseColor = theme ? theme.primaryColor : "#2080f0";
+        const bgColor =
+          config && config.theme === "dark" ? "#373737" : "#fff";
+        const fontColor =
+          config && config.theme === "dark"
+            ? "#fff"
+            : "#000";
+
+        document.body.style = `background-color: ${bgColor}`;
+        appEl.innerHTML = `
+                    <style>
+                        .loading-container {
+                            width: 100vw;
+                            height: 100vh;
+                            overflow: hidden;
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+                            justify-content: center;
+                            background-color: var(--loading-color-bg);
+                        }
+                        .strip-loading {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            width: 200px;
+                        }
+                        .strip-loading li {
+                            --time: calc((var(--line-index) - 1) * 200ms);
+                            border-radius: 4px;
+                            width: 8px;
+                            height: 40px;
+                            background-color: var(--loading-color-base);
+                            animation: beat 1s ease-in-out var(--time) infinite;
+                            list-style-type: none;
+                        }
+                        li + li {
+                            margin-left: 8px;
+                        }
+                        @keyframes beat {
+                            0%,
+                            100% {
+                                transform: scaleY(1);
+                            }
+                            50% {
+                                transform: scaleY(0.5);
+                            }
+                        }
+                        .loading-container > p {
+                            margin-top: 30px;
+                            color: var(--loading-color-font);
+                            font-weight: 700;
+                            font-size: 14px;
+                        }
+                    </style>
+                    <div 
+                        class="loading-container" 
+                        style="--loading-color-bg: ${bgColor}; --loading-color-font: ${fontColor}; --loading-color-base: ${baseColor}"
+                    >
+                        <ul class="strip-loading">
+                            <li style="--line-index: 1"></li>
+                            <li style="--line-index: 2"></li>
+                            <li style="--line-index: 3"></li>
+                            <li style="--line-index: 4"></li>
+                            <li style="--line-index: 5"></li>
+                            <li style="--line-index: 6"></li>
+                        </ul>
+                        <p>资源加载中</p>
+                    </div>
+                `;</script></div></body></html>

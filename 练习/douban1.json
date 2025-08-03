@@ -1,0 +1,768 @@
+[
+  {
+    "rating": [
+      "9.4",
+      "50"
+    ],
+    "rank": 1,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2913554676.jpg",
+    "is_playable": true,
+    "id": "1295644",
+    "types": [
+      "剧情",
+      "动作",
+      "犯罪"
+    ],
+    "regions": [
+      "法国",
+      "美国"
+    ],
+    "title": "这个杀手不太冷",
+    "url": "https:\/\/movie.douban.com\/subject\/1295644\/",
+    "release_date": "2024-11-01",
+    "actor_count": 23,
+    "vote_count": 2493224,
+    "score": "9.4",
+    "actors": [
+      "让·雷诺",
+      "娜塔莉·波特曼",
+      "加里·奥德曼",
+      "丹尼·爱罗",
+      "彼得·阿佩尔",
+      "迈克尔·巴达鲁科",
+      "艾伦·格里尼",
+      "伊丽莎白·瑞根",
+      "卡尔·马图斯维奇",
+      "弗兰克·赛格"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 2,
+    "cover_url": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2642829472.jpg",
+    "is_playable": true,
+    "id": "1291552",
+    "types": [
+      "剧情",
+      "动作",
+      "奇幻",
+      "冒险"
+    ],
+    "regions": [
+      "美国",
+      "新西兰"
+    ],
+    "title": "指环王3：王者无敌",
+    "url": "https:\/\/movie.douban.com\/subject\/1291552\/",
+    "release_date": "2004-03-12",
+    "actor_count": 68,
+    "vote_count": 884209,
+    "score": "9.3",
+    "actors": [
+      "伊利亚·伍德",
+      "西恩·奥斯汀",
+      "维果·莫腾森",
+      "奥兰多·布鲁姆",
+      "伊恩·麦克莱恩",
+      "肖恩·宾",
+      "多米尼克·莫纳汉",
+      "丽芙·泰勒",
+      "约翰·贝西",
+      "凯特·布兰切特"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.2",
+      "50"
+    ],
+    "rank": 3,
+    "cover_url": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p462657443.jpg",
+    "is_playable": true,
+    "id": "1851857",
+    "types": [
+      "剧情",
+      "动作",
+      "科幻",
+      "犯罪",
+      "惊悚"
+    ],
+    "regions": [
+      "美国",
+      "英国"
+    ],
+    "title": "蝙蝠侠：黑暗骑士",
+    "url": "https:\/\/movie.douban.com\/subject\/1851857\/",
+    "release_date": "2008-07-14",
+    "actor_count": 40,
+    "vote_count": 1161748,
+    "score": "9.2",
+    "actors": [
+      "克里斯蒂安·贝尔",
+      "希斯·莱杰",
+      "艾伦·艾克哈特",
+      "迈克尔·凯恩",
+      "玛吉·吉伦哈尔",
+      "加里·奥德曼",
+      "摩根·弗里曼",
+      "莫尼克·加布里埃拉·库尔内",
+      "罗恩·迪恩",
+      "基里安·墨菲"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.2",
+      "50"
+    ],
+    "rank": 4,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2640236255.jpg",
+    "is_playable": true,
+    "id": "1291572",
+    "types": [
+      "剧情",
+      "动作",
+      "奇幻",
+      "冒险"
+    ],
+    "regions": [
+      "美国",
+      "新西兰"
+    ],
+    "title": "指环王2：双塔奇兵",
+    "url": "https:\/\/movie.douban.com\/subject\/1291572\/",
+    "release_date": "2003-04-25",
+    "actor_count": 60,
+    "vote_count": 832000,
+    "score": "9.2",
+    "actors": [
+      "伊利亚·伍德",
+      "西恩·奥斯汀",
+      "多米尼克·莫纳汉",
+      "奥兰多·布鲁姆",
+      "维果·莫腾森",
+      "伊恩·麦克莱恩",
+      "凯特·布兰切特",
+      "比利·博伊德",
+      "杰德·布罗菲",
+      "丽芙·泰勒"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 5,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2215886505.jpg",
+    "is_playable": true,
+    "id": "1295399",
+    "types": [
+      "动作",
+      "冒险",
+      "剧情"
+    ],
+    "regions": [
+      "日本"
+    ],
+    "title": "七武士",
+    "url": "https:\/\/movie.douban.com\/subject\/1295399\/",
+    "release_date": "1954-04-26",
+    "actor_count": 50,
+    "vote_count": 226888,
+    "score": "9.3",
+    "actors": [
+      "三船敏郎",
+      "志村乔",
+      "津岛惠子",
+      "岛崎雪子",
+      "藤原釜足",
+      "加东大介",
+      "木村功",
+      "千秋实",
+      "宫口精二",
+      "小杉义男"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.5",
+      "50"
+    ],
+    "rank": 6,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2883720945.jpg",
+    "is_playable": false,
+    "id": "35853587",
+    "types": [
+      "动作",
+      "动画",
+      "奇幻"
+    ],
+    "regions": [
+      "日本"
+    ],
+    "title": "进击的巨人 最终季 完结篇 前篇",
+    "url": "https:\/\/movie.douban.com\/subject\/35853587\/",
+    "release_date": "2023-03-04",
+    "actor_count": 20,
+    "vote_count": 100639,
+    "score": "9.5",
+    "actors": [
+      "梶裕贵",
+      "石川由依",
+      "井上麻里奈",
+      "神谷浩史",
+      "细谷佳正",
+      "下野纮",
+      "三上枝织",
+      "谷山纪章",
+      "朴璐美",
+      "子安武人"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.1",
+      "45"
+    ],
+    "rank": 7,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2197698335.jpg",
+    "is_playable": true,
+    "id": "1291571",
+    "types": [
+      "剧情",
+      "动作",
+      "奇幻",
+      "冒险"
+    ],
+    "regions": [
+      "新西兰",
+      "美国"
+    ],
+    "title": "指环王1：护戒使者",
+    "url": "https:\/\/movie.douban.com\/subject\/1291571\/",
+    "release_date": "2002-04-04",
+    "actor_count": 59,
+    "vote_count": 932354,
+    "score": "9.1",
+    "actors": [
+      "伊利亚·伍德",
+      "西恩·奥斯汀",
+      "伊恩·麦克莱恩",
+      "维果·莫腾森",
+      "奥兰多·布鲁姆",
+      "多米尼克·莫纳汉",
+      "比利·博伊德",
+      "克里斯托弗·李",
+      "马尔顿·索克斯",
+      "梅根·爱德华兹"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.1",
+      "45"
+    ],
+    "rank": 8,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p451926968.jpg",
+    "is_playable": false,
+    "id": "1291843",
+    "types": [
+      "动作",
+      "科幻"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "黑客帝国",
+    "url": "https:\/\/movie.douban.com\/subject\/1291843\/",
+    "release_date": "2000-01-14",
+    "actor_count": 28,
+    "vote_count": 921924,
+    "score": "9.1",
+    "actors": [
+      "基努·里维斯",
+      "劳伦斯·菲什伯恩",
+      "凯瑞-安·莫斯",
+      "雨果·维文",
+      "格洛丽亚·福斯特",
+      "乔·潘托里亚诺",
+      "马库斯·钟",
+      "朱利安·阿拉汗加",
+      "马特·多兰",
+      "贝琳达·麦克洛里"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.0",
+      "45"
+    ],
+    "rank": 9,
+    "cover_url": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1512562287.jpg",
+    "is_playable": true,
+    "id": "3742360",
+    "types": [
+      "剧情",
+      "喜剧",
+      "动作",
+      "西部"
+    ],
+    "regions": [
+      "中国大陆",
+      "中国香港"
+    ],
+    "title": "让子弹飞",
+    "url": "https:\/\/movie.douban.com\/subject\/3742360\/",
+    "release_date": "2010-12-16",
+    "actor_count": 33,
+    "vote_count": 1869908,
+    "score": "9.0",
+    "actors": [
+      "姜文",
+      "葛优",
+      "周润发",
+      "刘嘉玲",
+      "陈坤",
+      "张默",
+      "姜武",
+      "周韵",
+      "廖凡",
+      "姚橹"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.0",
+      "45"
+    ],
+    "rank": 10,
+    "cover_url": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1910931622.jpg",
+    "is_playable": true,
+    "id": "1292000",
+    "types": [
+      "剧情",
+      "动作",
+      "悬疑",
+      "惊悚"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "搏击俱乐部",
+    "url": "https:\/\/movie.douban.com\/subject\/1292000\/",
+    "release_date": "1999-09-10",
+    "actor_count": 30,
+    "vote_count": 939048,
+    "score": "9.0",
+    "actors": [
+      "爱德华·诺顿",
+      "布拉德·皮特",
+      "海伦娜·伯翰·卡特",
+      "扎克·格雷尼尔",
+      "米特·洛夫",
+      "杰瑞德·莱托",
+      "艾恩·贝利",
+      "里奇蒙德·阿奎特",
+      "乔治·马奎尔",
+      "以斯拉·巴兹顿"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 11,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2900331189.jpg",
+    "is_playable": false,
+    "id": "36283000",
+    "types": [
+      "动作",
+      "动画",
+      "奇幻"
+    ],
+    "regions": [
+      "日本"
+    ],
+    "title": "进击的巨人 最终季 完结篇 后篇",
+    "url": "https:\/\/movie.douban.com\/subject\/36283000\/",
+    "release_date": "2023-11-04",
+    "actor_count": 19,
+    "vote_count": 99803,
+    "score": "9.3",
+    "actors": [
+      "梶裕贵",
+      "石川由依",
+      "井上麻里奈",
+      "神谷浩史",
+      "细谷佳正",
+      "岛村侑",
+      "朴璐美",
+      "下野纮",
+      "三上枝织",
+      "谷山纪章"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.9",
+      "45"
+    ],
+    "rank": 12,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2219011938.jpg",
+    "is_playable": true,
+    "id": "1291543",
+    "types": [
+      "动作",
+      "喜剧",
+      "犯罪",
+      "奇幻"
+    ],
+    "regions": [
+      "中国大陆",
+      "中国香港"
+    ],
+    "title": "功夫",
+    "url": "https:\/\/movie.douban.com\/subject\/1291543\/",
+    "release_date": "2004-12-23",
+    "actor_count": 35,
+    "vote_count": 1289739,
+    "score": "8.9",
+    "actors": [
+      "周星驰",
+      "元秋",
+      "元华",
+      "黄圣依",
+      "梁小龙",
+      "陈国坤",
+      "田启文",
+      "林子聪",
+      "林雪",
+      "冯克安"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.9",
+      "45"
+    ],
+    "rank": 13,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1633113220.jpg",
+    "is_playable": false,
+    "id": "1300299",
+    "types": [
+      "剧情",
+      "动作",
+      "犯罪",
+      "悬疑",
+      "惊悚"
+    ],
+    "regions": [
+      "韩国"
+    ],
+    "title": "杀人回忆",
+    "url": "https:\/\/movie.douban.com\/subject\/1300299\/",
+    "release_date": "2003-05-02",
+    "actor_count": 49,
+    "vote_count": 810533,
+    "score": "8.9",
+    "actors": [
+      "宋康昊",
+      "金相庆",
+      "金雷夏",
+      "宋在浩",
+      "边希峰",
+      "高瑞熙",
+      "柳泰浩",
+      "朴努植",
+      "朴海日",
+      "全美善"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.9",
+      "45"
+    ],
+    "rank": 14,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1706428744.jpg",
+    "is_playable": true,
+    "id": "3395373",
+    "types": [
+      "剧情",
+      "动作",
+      "科幻",
+      "犯罪",
+      "惊悚"
+    ],
+    "regions": [
+      "美国",
+      "英国"
+    ],
+    "title": "蝙蝠侠：黑暗骑士崛起",
+    "url": "https:\/\/movie.douban.com\/subject\/3395373\/",
+    "release_date": "2012-08-27",
+    "actor_count": 51,
+    "vote_count": 793367,
+    "score": "8.9",
+    "actors": [
+      "克里斯蒂安·贝尔",
+      "汤姆·哈迪",
+      "安妮·海瑟薇",
+      "约瑟夫·高登-莱维特",
+      "玛丽昂·歌迪亚",
+      "加里·奥德曼",
+      "迈克尔·凯恩",
+      "摩根·弗里曼",
+      "朱诺·坦普尔",
+      "乔什·平茨"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.9",
+      "45"
+    ],
+    "rank": 15,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2004174709.jpg",
+    "is_playable": true,
+    "id": "1294639",
+    "types": [
+      "动作",
+      "传记",
+      "剧情",
+      "历史",
+      "战争"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "勇敢的心",
+    "url": "https:\/\/movie.douban.com\/subject\/1294639\/",
+    "release_date": "1995-05-18",
+    "actor_count": 25,
+    "vote_count": 595113,
+    "score": "8.9",
+    "actors": [
+      "梅尔·吉布森",
+      "苏菲·玛索",
+      "布莱恩·考克斯",
+      "詹姆斯·科兹莫",
+      "辛·劳洛",
+      "凯瑟琳·麦克马克",
+      "安古斯·麦克菲登",
+      "布莱丹·格里森",
+      "詹姆斯·霍纳",
+      "彼得·穆兰"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.9",
+      "45"
+    ],
+    "rank": 16,
+    "cover_url": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p792223507.jpg",
+    "is_playable": true,
+    "id": "1578507",
+    "types": [
+      "动作",
+      "悬疑",
+      "惊悚"
+    ],
+    "regions": [
+      "美国",
+      "德国",
+      "法国",
+      "英国"
+    ],
+    "title": "谍影重重3",
+    "url": "https:\/\/movie.douban.com\/subject\/1578507\/",
+    "release_date": "2007-11-15",
+    "actor_count": 27,
+    "vote_count": 459027,
+    "score": "8.9",
+    "actors": [
+      "马特·达蒙",
+      "朱丽娅·斯蒂尔斯",
+      "大卫·斯特雷泽恩",
+      "斯科特·格伦",
+      "帕迪·康斯戴恩",
+      "埃德加·拉米雷兹",
+      "阿尔伯特·芬尼",
+      "琼·艾伦",
+      "克里·约翰逊",
+      "丹尼尔·布鲁赫"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.0",
+      "45"
+    ],
+    "rank": 17,
+    "cover_url": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2921045013.jpg",
+    "is_playable": false,
+    "id": "1291936",
+    "types": [
+      "动作",
+      "科幻",
+      "动画"
+    ],
+    "regions": [
+      "日本"
+    ],
+    "title": "攻壳机动队",
+    "url": "https:\/\/movie.douban.com\/subject\/1291936\/",
+    "release_date": "2025-05-10",
+    "actor_count": 16,
+    "vote_count": 206494,
+    "score": "9.0",
+    "actors": [
+      "田中敦子",
+      "大塚明夫",
+      "山寺宏一",
+      "大木民夫",
+      "家弓家正",
+      "玄田哲章",
+      "山内雅人",
+      "小川真司",
+      "布莱恩·克兰斯顿",
+      "山路和弘"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.8",
+      "45"
+    ],
+    "rank": 18,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2180085848.jpg",
+    "is_playable": true,
+    "id": "1652587",
+    "types": [
+      "动作",
+      "科幻",
+      "冒险"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "阿凡达",
+    "url": "https:\/\/movie.douban.com\/subject\/1652587\/",
+    "release_date": "2010-01-04",
+    "actor_count": 48,
+    "vote_count": 1537006,
+    "score": "8.8",
+    "actors": [
+      "萨姆·沃辛顿",
+      "佐伊·索尔达娜",
+      "西格妮·韦弗",
+      "史蒂芬·朗",
+      "米歇尔·罗德里格兹",
+      "吉奥瓦尼·瑞比西",
+      "乔·大卫·摩尔 ",
+      "希·庞德",
+      "韦斯·斯塔迪",
+      "拉兹·阿隆索"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.8",
+      "45"
+    ],
+    "rank": 19,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2224568669.jpg",
+    "is_playable": true,
+    "id": "11026735",
+    "types": [
+      "喜剧",
+      "动作",
+      "科幻",
+      "动画",
+      "冒险"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "超能陆战队",
+    "url": "https:\/\/movie.douban.com\/subject\/11026735\/",
+    "release_date": "2015-02-28",
+    "actor_count": 32,
+    "vote_count": 1116387,
+    "score": "8.8",
+    "actors": [
+      "斯科特·安第斯",
+      "瑞恩·波特",
+      "丹尼尔·海尼",
+      "T·J·米勒",
+      "郑智麟",
+      "小达蒙·韦恩斯",
+      "珍尼希斯·罗德里格兹",
+      "詹姆斯·克伦威尔",
+      "艾伦·图代克",
+      "玛娅·鲁道夫"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "8.8",
+      "45"
+    ],
+    "rank": 20,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1596085504.jpg",
+    "is_playable": true,
+    "id": "1298070",
+    "types": [
+      "动作",
+      "冒险",
+      "奇幻"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "加勒比海盗",
+    "url": "https:\/\/movie.douban.com\/subject\/1298070\/",
+    "release_date": "2003-11-21",
+    "actor_count": 35,
+    "vote_count": 943008,
+    "score": "8.8",
+    "actors": [
+      "约翰尼·德普",
+      "杰弗里·拉什",
+      "奥兰多·布鲁姆",
+      "凯拉·奈特莉",
+      "杰克·达文波特",
+      "乔纳森·普雷斯",
+      "贾尔斯·纽",
+      "陆建艺",
+      "大卫·拜利",
+      "王磊"
+    ],
+    "is_watched": false
+  }
+]
