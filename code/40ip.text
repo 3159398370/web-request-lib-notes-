@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <title>IP地址查询_本机IP_我的IP</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="IP地址查询是一个在线工具，访问本页面可以获取我当前的IP地址和本机IP，输入IP或者域名还可以查询对应的归属地信息，地理位置信息可以精确到运营商和国家、省市级别。">
+    <link rel="stylesheet" href="//cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="/css/common.css"/>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1865255241075286"
+     crossorigin="anonymous"></script>
+    </head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="navbar-brand" href="//ip.900cha.com">IP地址查询</a>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="navbar-nav">
+                                                <li class="nav-item">
+                            <a class="nav-link" href="https://www.900cha.com">900查询</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav ml-md-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown">常用查询工具</a>
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="//fanyi.900cha.com">免费在线翻译</a>
+                                <a class="dropdown-item" href="//zidian.900cha.com">新华字典</a>
+                                <a class="dropdown-item" href="//baobao.900cha.com">合成宝宝照片</a>
+                                <a class="dropdown-item" href="//bmi.900cha.com">BMI计算器</a>
+                                <a class="dropdown-item" href="//chengyu.900cha.com">成语大全</a>
+                                <a class="dropdown-item" href="//yanzhi.900cha.com">长相打分器</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="row mt-3">
+                <div class="col-md-8">
+                    <div class="page-header border-bottom">
+                        <h1>IP地址查询
+                            <small class="text-muted text-nowrap ml-0">IP查询 本机IP</small>
+                        </h1>
+                    </div>
+                    
+                        <form class="mt-4" method="post" action="/">
+        <div class="form-row align-items-center d-flex justify-content-center">
+            <div class="col-auto">
+                <label for="inputSearch" class="text-muted mb-2">输入IP地址或域名进行查询</label>
+            </div>
+            <div class="col-auto">
+                <input type="text" class="form-control mb-2" id="inputSearch" name="query" placeholder="123.139.74.250">
+            </div>
+            <input type="hidden" name="_token" value="XQuyVFMJKdO0TjUW5LL4LuP2qHusRNPQVjWCATPx">
+            <div class="col-auto">
+                <button type="submit" class="btn btn-success mb-2">查询</button>
+            </div>
+        </div>
+    </form>
+    <h3 class="text-danger mt-2">
+        123.139.74.250
+    </h3>
+    <ul class="list-unstyled">
+        <li class="list-item">
+            我的IP: 123.139.74.250
+        </li>
+        <li class="list-item text-success mt-2">
+            IP: 123.139.74.250 地理位置信息
+        </li>
+        <li class="list-item mt-2">
+            准确归属地: 123.139.74.250 -> 陕西省西安市 联通
+        </li>
+        <li class="list-item mt-2">
+            参考归属地: 123.139.74.250 -> 中国 陕西 西安
+        </li>
+    </ul>
+                </div>
+                <div class="col-md-4">
+                   
+                        <div class="card mt-2">
+        <div class="card-header small">大家正在查</div>
+        <div class="card-body small">
+            <ul class="list-unstyled mb-0">
+                                                            <li class="list-item ml-2">
+                            <a href="/171.107.43.108.html" class="text-dark">171.107.43.108 -> <span class="text-black-50">广西 电信数据上网公共出口</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/36.154.76.210.html" class="text-dark">36.154.76.210 -> <span class="text-black-50">江苏省 移动</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/36.28.70.4.html" class="text-dark">36.28.70.4 -> <span class="text-black-50">浙江省杭州市 电信</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/117.63.211.104.html" class="text-dark">117.63.211.104 -> <span class="text-black-50">江苏省常州市 电信</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/220.181.108.114.html" class="text-dark">220.181.108.114 -> <span class="text-black-50">北京市 北京百度网讯科技有限公司电信节点</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/117.70.136.54.html" class="text-dark">117.70.136.54 -> <span class="text-black-50">安徽省池州市 电信</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/223.91.224.254.html" class="text-dark">223.91.224.254 -> <span class="text-black-50">河南省商丘市 移动</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/116.179.32.175.html" class="text-dark">116.179.32.175 -> <span class="text-black-50">山西省阳泉市 联通</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/220.186.18.196.html" class="text-dark">220.186.18.196 -> <span class="text-black-50">浙江省温州市 电信</span></a>
+                        </li>
+                                            <li class="list-item ml-2">
+                            <a href="/10.88.140.106.html" class="text-dark">10.88.140.106 -> <span class="text-black-50">局域网 IP</span></a>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+                </div>
+            </div>
+            <div class="card bg-default mt-2">
+                <div class="card-header small">全部查询</div>
+                <div class="card-body small">
+                    <ul class="list-unstyled mb-0">
+                        <li class="list-item list-inline-item">
+                            <a href="//fanyi.900cha.com" class="text-muted">免费在线翻译</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//bmi.900cha.com" class="text-muted">BMI指数计算器</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//ip.900cha.com" class="text-muted">IP地址查询</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//zidian.900cha.com" class="text-muted">新华字典</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//miyu.900cha.com" class="text-muted">谜语大全及答案</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//chengyu.900cha.com" class="text-muted">成语大全</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//qiming.900cha.com" class="text-muted">免费在线起名</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//yanzhi.900cha.com" class="text-muted">颜值测试</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//zhiwu.900cha.com" class="text-muted">拍照识别植物</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//dongwu.900cha.com" class="text-muted">照片识别动物</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//logo.900cha.com" class="text-muted">LOGO图片识别</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//mimashengchengqi.900cha.com" class="text-muted">密码生成器</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//uuid.900cha.com" class="text-muted">UUID生成器</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//timestamp.900cha.com" class="text-muted">Unix时间戳转换</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//jiamijiemi.900cha.com" class="text-muted">数据加密解密</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//heihua.900cha.com" class="text-muted">00后黑话大全</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//htaccess2nginx.900cha.com" class="text-muted">Htaccess文件转Nginx</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//nianling.900cha.com" class="text-muted">照片测年龄</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//xingbie.900cha.com" class="text-muted">照片识别性别</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//zishu.900cha.com" class="text-muted">在线字数统计器</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//useragent.900cha.com" class="text-muted">UserAgent检测</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//colorpicker.900cha.com" class="text-muted">网页拾色器</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//huilv.900cha.com" class="text-muted">今日实时汇率查询</a>
+                        </li>
+                        <li class="list-item list-inline-item">
+                            <a href="//baobao.900cha.com" class="text-muted">预测宝宝未来长相</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <p class="text-center text-muted">
+                <small>2010-2025 900查询 版权所有</small>
+            </p>
+        </div>
+    </div>
+</div>
+<script src="//cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
+<script src="//cdn.staticfile.org/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="//cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?f2b7b31f146deaf06efb52986c06d478";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+</body>
+</html>
