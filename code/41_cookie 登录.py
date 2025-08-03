@@ -36,12 +36,34 @@ viewstategenerator = soup.select('#__VIEWSTATEGENERATOR')[0].attrs.get('value')
 code = soup.select('#imgCode')[0].attrs.get('src')
 # print( code)
 code_url = 'https://www.gushiwen.cn' + code
-
+#有坑
+# import urllib.request
+# urllib.request.urlretrieve(code_url,filename='code.png')
+# requests 里面有一个方法 session() 通过session()的返回值 就能使用变成一个对象
 # 获取到验证码的图片之后 下载到本地 观察验证码 手动输入
+session = requests.session()
+response_code = session.get(code_url)
+#注意此时使用二进制数据，使用图片的下载函数
+content_code = response_code.content
+# wb 的模式就是将二进制写入到文件
+with open('code.png','wb') as fp:
+    fp.write(content_code)
 code_name = input('请输入验证码：')
 
 #点击登录
 url_post ='https://www.gushiwen.cn/user/login.aspx?from=http%3a%2f%2fwww.gushiwen.cn%2fuser%2fcollect.aspx'
 data_post= {
-
+    "__VIEWSTATE": viewstate,
+    "__VIEWSTATEGENERATOR": viewstategenerator,
+    "source": "http://www.gushiwen.cn/user/collect.aspx",
+    "email": "19092419643@163.com",
+    "pwd": "933tu3tf",
+    "code": code_name,
+    "denglu":"登录",
 }
+response_post = session.post(url = url_post,headers = headers,data = data_post)
+
+content_post = response_post.text
+
+with open('gushiwen.html','w',encoding='utf-8') as fp:
+    fp.write(content_post)
