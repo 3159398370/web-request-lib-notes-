@@ -1,5 +1,8 @@
 # web-request-lib-notes-
+
 以下为爬虫学习笔记
+
+笔记文件夹以及支持文档来自于‘尚硅谷’ https://www.bilibili.com/video/BV1Db4y1m7Ho?p=86
 
 ## **`urllib-vs-requests`**
 
