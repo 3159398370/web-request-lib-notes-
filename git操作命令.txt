@@ -81,3 +81,5 @@ git reset --hard 9f02038e
 
 # 2. 强制推送到远程仓库（覆盖历史）
 git push -f origin <分支名>  # 如 git push -f origin main
+ -i https://pypi.tuna.tsinghua.edu.cn/simple
+

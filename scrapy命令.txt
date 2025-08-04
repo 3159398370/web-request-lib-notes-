@@ -1,0 +1,5 @@
+1.创建项目
+    scrapy startproject <project_name>
+    生成标准项目结构：settings.py（配置）、items.py（数据模型）、pipelines.py（数据处理）、spiders/（爬虫文件目录）
+示例：scrapy startproject my_crawler
+
