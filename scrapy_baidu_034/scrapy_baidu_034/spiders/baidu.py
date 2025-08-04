@@ -9,5 +9,8 @@ class BaiduSpider(scrapy.Spider):
     # 起使的URL 一般指的是起始的URL
     start_urls = ["https://www.baidu.com"]
 
+    # 是执行了start_urls之后的方法  response就是返回的那个对象
+    # 相当于 response = urllib.request.urlopen(url)
+    # 相当于 response = requests.get(url)
     def parse(self, response):
-        pass
+        print('苍茫的宇宙')

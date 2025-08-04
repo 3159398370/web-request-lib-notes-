@@ -10,4 +10,6 @@
 #scrapy genspider 爬虫名字 要爬虫的网页
     scrapy genspider
     一般情况下不需要添加域名
+3，运行爬虫代码
+    scrapy crawl 爬虫的名字
 
