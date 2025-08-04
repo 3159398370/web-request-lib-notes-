@@ -1,5 +1,13 @@
 1.创建项目
     scrapy startproject <project_name>
+    # 注意：项目的名字不允许使用数字开头 也不能包含中文
     生成标准项目结构：settings.py（配置）、items.py（数据模型）、pipelines.py（数据处理）、spiders/（爬虫文件目录）
 示例：scrapy startproject my_crawler
+
+2.创建爬虫文件 在spiders中去创建文件
+    cd 项目的名字\项目的名字\spiders
+    cd scrapy_baidu_034\scrapy_baidu_034\spiders
+#scrapy genspider 爬虫名字 要爬虫的网页
+    scrapy genspider
+    一般情况下不需要添加域名
 
