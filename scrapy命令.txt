@@ -13,3 +13,14 @@
 3，运行爬虫代码
     scrapy crawl 爬虫的名字
 
+4. response的属性和方法
+    respoonse.text 获取的是响应的字符串
+    response.body 获取的是二进制的数据
+    respose.xpath 可以直接是xpath 方法来解释response中的
+
+
+
+
+
+
+
