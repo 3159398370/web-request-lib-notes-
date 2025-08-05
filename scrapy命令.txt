@@ -19,8 +19,6 @@
     respose.xpath 可以直接是xpath 方法来解释response中的
 
 
-
-
-
+5. 进入到scrapy shell的终端 直接在windows的终端中输入scrapy shell 域名
 
 
