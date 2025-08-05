@@ -1,0 +1,77 @@
+[
+  {
+    "brand": "华晨宝马",
+    "model": "宝马3系",
+    "price_range": "31.99-39.99万"
+  },
+  {
+    "brand": "华晨宝马",
+    "model": "宝马5系",
+    "price_range": "43.99-52.59万"
+  },
+  {
+    "brand": "华晨宝马",
+    "model": "宝马X3",
+    "price_range": "34.99-48.69万"
+  },
+  {
+    "brand": "华晨宝马",
+    "model": "宝马X5",
+    "price_range": "61.50-83.00万"
+  },
+  {
+    "brand": "宝马(进口)",
+    "model": "宝马7系",
+    "price_range": "91.90-126.90万"
+  },
+  {
+    "brand": "华晨宝马",
+    "model": "宝马X1",
+    "price_range": "28.89-34.99万"
+  },
+  {
+    "brand": "华晨宝马",
+    "model": "宝马i3",
+    "price_range": "35.39-41.39万"
+  },
+  {
+    "brand": "宝马(进口)",
+    "model": "宝马4系",
+    "price_range": "37.99-57.69万"
+  },
+  {
+    "brand": "华晨宝马",
+    "model": "宝马2系",
+    "price_range": "25.99-27.99万"
+  },
+  {
+    "brand": "宝马(进口)",
+    "model": "宝马X7",
+    "price_range": "103.90-136.90万"
+  },
+  {
+    "brand": "华晨宝马",
+    "model": "宝马iX3",
+    "price_range": "40.50-44.50万"
+  },
+  {
+    "brand": "宝马(进口)",
+    "model": "宝马5系(进口)",
+    "price_range": "43.99-52.59万"
+  },
+  {
+    "brand": "宝马(进口)",
+    "model": "宝马X6",
+    "price_range": "79.99-97.59万"
+  },
+  {
+    "brand": "宝马M",
+    "model": "宝马M4",
+    "price_range": "89.39-108.80万"
+  },
+  {
+    "brand": "宝马(进口)",
+    "model": "宝马8系",
+    "price_range": "97.80-336.60万"
+  }
+]
