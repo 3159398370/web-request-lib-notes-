@@ -1,5 +1,5 @@
 import scrapy
-
+from scrapy_dangdang036.items import ScrapyDangdang036Item
 
 class DangSpider(scrapy.Spider):
     name = "dang"
@@ -17,7 +17,15 @@ class DangSpider(scrapy.Spider):
         li_list = response.xpath('//ul[@id="component_59"]/li')
         for li in li_list:
             src = li.xpath('.//img/@data-original').extract_first()
+        # 第一张图片不是懒加载
+            if src:
+                src = src
+            else:
+                src = li.xpath('.//img/@src').extract_first()
+
             name = li.xpath('.//img/@alt').extract_first()
             price = li.xpath('.//p[@class="price"]/span[1]/text()').extract_first()
             print(src, name, price)
-
+            book = ScrapyDangdang036Item(src= src, name= name, price= price)
+            #yield 相当于retrun返回一个值
+            yield book
