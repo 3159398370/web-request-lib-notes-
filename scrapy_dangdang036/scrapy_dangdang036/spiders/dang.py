@@ -38,3 +38,4 @@ class DangSpider(scrapy.Spider):
             url = self.base_url + str(self.page) + "-cp01.01.01.00.00.00.html"
             # scrapy.Request就是scrapy的get请求对象
             yield scrapy.Request(url=url, callback=self.parse)
+            print(url)
