@@ -83,3 +83,5 @@ git reset --hard 9f02038e
 git push -f origin <分支名>  # 如 git push -f origin main
  -i https://pypi.tuna.tsinghua.edu.cn/simple
 
+# 删除远程分支
+git push origin --delete master
