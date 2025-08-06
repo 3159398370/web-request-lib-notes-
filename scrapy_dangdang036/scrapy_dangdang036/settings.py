@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = "scrapy_dangdang036.spiders"
 #USER_AGENT = "scrapy_dangdang036 (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+# ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -62,9 +62,12 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "scrapy_dangdang036.pipelines.ScrapyDangdang036Pipeline": 300,
-#}
+ITEM_PIPELINES = {
+    # 300 管道可以有很多个 值越小 优先级越高
+   "scrapy_dangdang036.pipelines.ScrapyDangdang036Pipeline": 300,
+
+   "scrapy_dangdang036.pipelines.DangDangDownloadPipeline":301
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

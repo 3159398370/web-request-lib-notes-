@@ -13,4 +13,3 @@ class ScrapyDangdang036Item(scrapy.Item):
     src = scrapy.Field()
     name = scrapy.Field()
     price = scrapy.Field()
-
